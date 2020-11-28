@@ -1,0 +1,21 @@
+{
+    "name": "expresso",
+    "version": "0.0.1",
+    "description": "Nodejs Express Application",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js",
+      "test": "node test.js"
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/RussellAbraham/expresso/"
+    },
+    "keywords": [
+      "node",
+      "heroku",
+      "express"
+    ],
+    "license": "MIT"
+  }
+  
